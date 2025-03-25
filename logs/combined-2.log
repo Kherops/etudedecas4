@@ -1,0 +1,224 @@
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+Error: Cannot find module 'express'
+Require stack:
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js
+- C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\server.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at Hook._require.Module.require (C:\Users\xzora\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:81:25)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Kherops\ISCOD\étude de cas\étude de cas 4\étude de cas\etudedecas4\api\articles\articles.router.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
